@@ -1,2 +1,2 @@
-# MSSA.Cash.Register
-MSSA Labs/Exercises progressively towards creating a Cash Register through .NET core console.
+# MSSA.Assignments
+MSSA Labs/Exercises progressively towards learning a combination of C# and ASP.NET.
