@@ -1,0 +1,13 @@
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\bin\Debug\netcoreapp3.1\MSSA.Optional.Parameters.exe
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\bin\Debug\netcoreapp3.1\MSSA.Optional.Parameters.deps.json
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\bin\Debug\netcoreapp3.1\MSSA.Optional.Parameters.runtimeconfig.json
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\bin\Debug\netcoreapp3.1\MSSA.Optional.Parameters.runtimeconfig.dev.json
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\bin\Debug\netcoreapp3.1\MSSA.Optional.Parameters.dll
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\bin\Debug\netcoreapp3.1\MSSA.Optional.Parameters.pdb
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\obj\Debug\netcoreapp3.1\MSSA.Optional.Parameters.csprojAssemblyReference.cache
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\obj\Debug\netcoreapp3.1\MSSA.Optional.Parameters.AssemblyInfoInputs.cache
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\obj\Debug\netcoreapp3.1\MSSA.Optional.Parameters.AssemblyInfo.cs
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\obj\Debug\netcoreapp3.1\MSSA.Optional.Parameters.csproj.CoreCompileInputs.cache
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\obj\Debug\netcoreapp3.1\MSSA.Optional.Parameters.dll
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\obj\Debug\netcoreapp3.1\MSSA.Optional.Parameters.pdb
+C:\Users\AETHER.000\source\repos\ExCh3OptionalParameters\ExCh3OptionalParameters\obj\Debug\netcoreapp3.1\MSSA.Optional.Parameters.genruntimeconfig.cache
