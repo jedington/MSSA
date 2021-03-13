@@ -1,0 +1,13 @@
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\bin\Debug\netcoreapp3.1\MSSA.Calc.Avg.exe
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\bin\Debug\netcoreapp3.1\MSSA.Calc.Avg.deps.json
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\bin\Debug\netcoreapp3.1\MSSA.Calc.Avg.runtimeconfig.json
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\bin\Debug\netcoreapp3.1\MSSA.Calc.Avg.runtimeconfig.dev.json
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\bin\Debug\netcoreapp3.1\MSSA.Calc.Avg.dll
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\bin\Debug\netcoreapp3.1\MSSA.Calc.Avg.pdb
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\obj\Debug\netcoreapp3.1\MSSA.Calc.Avg.csprojAssemblyReference.cache
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\obj\Debug\netcoreapp3.1\MSSA.Calc.Avg.AssemblyInfoInputs.cache
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\obj\Debug\netcoreapp3.1\MSSA.Calc.Avg.AssemblyInfo.cs
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\obj\Debug\netcoreapp3.1\MSSA.Calc.Avg.csproj.CoreCompileInputs.cache
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\obj\Debug\netcoreapp3.1\MSSA.Calc.Avg.dll
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\obj\Debug\netcoreapp3.1\MSSA.Calc.Avg.pdb
+C:\Users\AETHER.000\source\repos\CalculatingAverages\CalculatingAverages\obj\Debug\netcoreapp3.1\MSSA.Calc.Avg.genruntimeconfig.cache
