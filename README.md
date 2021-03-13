@@ -27,20 +27,15 @@ Twitter: [@julianedington](https://twitter.com/julianedington) • LinkedIn: [ju
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jedington/Canvas-Your-Goals.svg?style=for-the-badge
-[contributors-url]: https://github.com/jedington/Canvas-Your-Goals/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jedington/Canvas-Your-Goals.svg?style=for-the-badge
-[forks-url]: https://github.com/jedington/Canvas-Your-Goals/network/members
-[stars-shield]: https://img.shields.io/github/stars/jedington/Canvas-Your-Goals.svg?style=for-the-badge
-[stars-url]: https://github.com/jedington/Canvas-Your-Goals/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jedington/Canvas-Your-Goals.svg?style=for-the-badge
-[issues-url]: https://github.com/jedington/Canvas-Your-Goals/issues
-[license-shield]: https://img.shields.io/github/license/jedington/Canvas-Your-Goals.svg?style=for-the-badge
-[license-url]: https://github.com/jedington/Canvas-Your-Goals/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/jedington/MSSA.Assignments.svg?style=for-the-badge
+[contributors-url]: https://github.com/jedington/MSSA.Assignments/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jedington/MSSA.Assignments.svg?style=for-the-badge
+[forks-url]: https://github.com/jedington/MSSA.Assignments/network/members
+[stars-shield]: https://img.shields.io/github/stars/jedington/MSSA.Assignments.svg?style=for-the-badge
+[stars-url]: https://github.com/jedington/MSSA.Assignments/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jedington/MSSA.Assignments.svg?style=for-the-badge
+[issues-url]: https://github.com/jedington/MSSA.Assignments/issues
+[license-shield]: https://img.shields.io/github/license/jedington/MSSA.Assignments.svg?style=for-the-badge
+[license-url]: https://github.com/jedington/MSSA.Assignments/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/julian-edington/
-[product-screenshot]: images/screenshot.png
-[project-diagram]: images/Canvas-Your-Goals.svg
-
-
-
