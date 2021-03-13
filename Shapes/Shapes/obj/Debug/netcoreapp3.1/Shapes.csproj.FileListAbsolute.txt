@@ -1,0 +1,13 @@
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\AETHER.000\source\repos\MSSA\Shapes\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
