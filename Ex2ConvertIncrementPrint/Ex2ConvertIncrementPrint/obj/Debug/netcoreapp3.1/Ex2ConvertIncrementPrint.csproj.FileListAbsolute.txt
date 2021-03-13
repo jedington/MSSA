@@ -1,0 +1,13 @@
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\bin\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.exe
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\bin\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.deps.json
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\bin\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.runtimeconfig.json
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\bin\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.runtimeconfig.dev.json
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\bin\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.dll
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\bin\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.pdb
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\obj\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.csprojAssemblyReference.cache
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\obj\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.AssemblyInfoInputs.cache
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\obj\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.AssemblyInfo.cs
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\obj\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.csproj.CoreCompileInputs.cache
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\obj\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.dll
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\obj\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.pdb
+C:\Users\AETHER.000\source\repos\Ex2ConvertIncrementPrint\Ex2ConvertIncrementPrint\obj\Debug\netcoreapp3.1\Ex2ConvertIncrementPrint.genruntimeconfig.cache
