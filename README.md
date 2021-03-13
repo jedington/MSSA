@@ -17,7 +17,11 @@
 
   <h3 align="center">MSSA Assignments</h3>
 
-MSSA Labs/Exercises progressively towards learning a combination of C# and ASP.NET.
+MSSA Labs/Exercises progressively towards learning foundational software development.
+
+## Built With
+
+[C#](https://docs.microsoft.com/en-us/dotnet/csharp/) • [T-SQL](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver15) • [.NET Core](https://dotnet.microsoft.com/download) • JavaScript • CSS • HTML
 
 <!-- CONTACT -->
 ## Contact
