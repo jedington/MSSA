@@ -17,7 +17,7 @@
 
   <h3 align="center">MSSA Assignments</h3>
 
-MSSA Labs/Exercises progressively towards learning foundational software development.
+MSSA Labs/Exercises progressively towards learning foundational software & web development.
 
 Each file is individually zipped to make it easy to extract them individually:
 * Right click the zip file, save link. -or- Navigate to the page and extract the raw.
