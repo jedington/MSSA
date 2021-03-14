@@ -19,6 +19,8 @@
 
 MSSA Labs/Exercises progressively towards learning foundational software development.
 
+Each file is individually zipped to make it easy to extract them individually (right click, save link / or navigate to the page and extract the raw).
+
 ## Built With
 
 [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) • [T-SQL](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver15) • [.NET Core](https://dotnet.microsoft.com/download) • JavaScript • CSS • HTML
