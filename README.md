@@ -19,7 +19,8 @@
 
 MSSA Labs/Exercises progressively towards learning foundational software development.
 
-Each file is individually zipped to make it easy to extract them individually (right click, save link / or navigate to the page and extract the raw).
+Each file is individually zipped to make it easy to extract them individually:
+* Right click the zip file, save link. -or- Navigate to the page and extract the raw.
 
 ## Built With
 
