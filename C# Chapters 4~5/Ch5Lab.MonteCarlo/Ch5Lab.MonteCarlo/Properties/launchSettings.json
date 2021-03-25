@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MSSA.Monte.Carlo.PI": {
+      "commandName": "Project",
+      "commandLineArgs": "10 100 1000 10000"
+    }
+  }
+}
