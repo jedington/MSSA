@@ -46,8 +46,8 @@ namespace Shapes
             Console.WriteLine($"Area of Circle c1 is {c1.GetArea()}");
 
             Shape s = new Square(2);
-            Console.WriteLine(s.GetArea());
-            Console.WriteLine(s.GetPerimeter());
+            Console.WriteLine($"Area of Square 's' is: {s.GetArea()}");
+            Console.WriteLine($"Perimeter of Square 's' is: {s.GetPerimeter()}");
         } // main method ends
     } // class ends
 } // namespace ends

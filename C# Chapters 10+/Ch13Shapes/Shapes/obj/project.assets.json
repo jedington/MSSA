@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AETHER.000\\source\\repos\\Ch10Shapes\\Shapes\\Shapes.csproj",
+      "projectUniqueName": "C:\\Users\\AETHER.000\\source\\repos\\MSSA\\C# Chapters 10+\\Ch13Shapes\\Shapes\\Shapes.csproj",
       "projectName": "Shapes",
-      "projectPath": "C:\\Users\\AETHER.000\\source\\repos\\Ch10Shapes\\Shapes\\Shapes.csproj",
+      "projectPath": "C:\\Users\\AETHER.000\\source\\repos\\MSSA\\C# Chapters 10+\\Ch13Shapes\\Shapes\\Shapes.csproj",
       "packagesPath": "C:\\Users\\AETHER.000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AETHER.000\\source\\repos\\Ch10Shapes\\Shapes\\obj\\",
+      "outputPath": "C:\\Users\\AETHER.000\\source\\repos\\MSSA\\C# Chapters 10+\\Ch13Shapes\\Shapes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
