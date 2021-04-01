@@ -3,31 +3,31 @@ using System.Runtime.InteropServices;
 
 namespace Shapes
 {
-    class Square : Shape
+    class Hexagon : Shape
     {
         // fields
         protected double Side = 1.0;
 
 
         // constructors
-        public Square(double side, [Optional] string color)
+        public Hexagon(double side, [Optional] string color)
             : base(color) // DRY
             => SetSide(side);
-        // Square const ends 
+        // Hexagon const ends 
 
 
         // methods
         public override double GetArea()
-            => Side * Side;
+            => 3 * Math.Sqrt(3) * Side * Side / 2;
         // GetArea method ends
 
         public override double GetPerimeter()
-            => 4 * Side;
+            => 6 * Side;
         // GetPerimeter method ends
         
         public double GetSide()
             => Side;
-        // GetSide method ends
+        //  GetSide method ends
 
         public void SetSide(double side)
         {
@@ -43,7 +43,7 @@ namespace Shapes
         } //  SetSide method ends
 
         public override string ToString()
-            => $"Square side value = {Side}, {base.ToString()}";
+            => $"Hexagon side value = {Side}, {base.ToString()}";
         // ToString method ends
     } // class ends
 } // namespace ends

@@ -31,10 +31,7 @@ namespace Shapes
                 Color = color;
                 return true;
             }
-            else
-            {
-                return false;
-            }
+            return false;
         } 
         // Set Color method ends
 
