@@ -1,0 +1,13 @@
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.exe
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.deps.json
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.runtimeconfig.json
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.runtimeconfig.dev.json
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.dll
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\bin\Debug\netcoreapp3.1\QuizTest.pdb
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.csprojAssemblyReference.cache
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.AssemblyInfoInputs.cache
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.AssemblyInfo.cs
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.csproj.CoreCompileInputs.cache
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.dll
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.pdb
+C:\Users\AETHER.000\source\repos\QuizTest\QuizTest\obj\Debug\netcoreapp3.1\QuizTest.genruntimeconfig.cache
