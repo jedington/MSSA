@@ -1,0 +1,13 @@
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\bin\Debug\netcoreapp3.1\WealthiestPerson.exe
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\bin\Debug\netcoreapp3.1\WealthiestPerson.deps.json
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\bin\Debug\netcoreapp3.1\WealthiestPerson.runtimeconfig.json
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\bin\Debug\netcoreapp3.1\WealthiestPerson.runtimeconfig.dev.json
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\bin\Debug\netcoreapp3.1\WealthiestPerson.dll
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\bin\Debug\netcoreapp3.1\WealthiestPerson.pdb
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\obj\Debug\netcoreapp3.1\WealthiestPerson.csprojAssemblyReference.cache
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\obj\Debug\netcoreapp3.1\WealthiestPerson.AssemblyInfoInputs.cache
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\obj\Debug\netcoreapp3.1\WealthiestPerson.AssemblyInfo.cs
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\obj\Debug\netcoreapp3.1\WealthiestPerson.csproj.CoreCompileInputs.cache
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\obj\Debug\netcoreapp3.1\WealthiestPerson.dll
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\obj\Debug\netcoreapp3.1\WealthiestPerson.pdb
+C:\Users\AETHER.000\source\repos\WealthiestPerson\WealthiestPerson\obj\Debug\netcoreapp3.1\WealthiestPerson.genruntimeconfig.cache
