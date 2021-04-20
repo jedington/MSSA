@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>HTML Quiz</title>
+  </head>
+
+  <body>
+    <h1>SuperBowl LV</h1>
+    <h2>Sunday, February 7th, 2021</h2>
+    <h2>Raymond James Stadium, Tampa Bay, FL</h2>
+
+    <hr>
+
+    <!-- table -->
+    <table>
+      <thead>
+        <tr>
+          <th>Team</th>
+          <th>Q1</th>
+          <th>Q2</th>
+          <th>Q3</th>
+          <th>Q4</th>
+          <th>Final</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <img src="https://s.yimg.com/cv/apiv2/default/nfl/20190724/70x70/2019_KC.png" alt="Kansas City"/>
+          </td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+          <td>0</td>
+          <td>9</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://s.yimg.com/cv/apiv2/default/nfl/20200508/70x70/buccaneers.png" alt="Tampa Bay"/>
+          </td>
+          <td>7</td>
+          <td>14</td>
+          <td>10</td>
+          <td>0</td>
+          <td>31</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <hr>
+
+    <!-- Players -->
+    <h2>Key Players - <a href="https://www.chiefs.com/">Kansas City</a></h2>
+    <ul>
+      <li>Patrick Mahomes - 270 Yds, 0 TDs, 2 Ints, 3 Sacks, Rating: 52.3</li>
+      <li>Clyde Edwards-Helaire - 9 Rushes, 64 Yds, 0 TDs, 0 Fumbles</li>
+      <li>Travis Kelce - 10 Catches, 133 Yds, 0 TDs</li>
+    </ul>
+    <h2>Key Players - <a href="https://www.buccaneers.com/">Tampa Bay</a></h2>
+    <ul>
+      <li>Tom Brady - 201 Yds, 3 TDs, 0 Ints, 1 Sack, Rating: 125.8</li>
+      <li>Leonard Fournette - 16 Rushes, 89 Yds, 1 TD, 0 Fumbles</li>
+      <li>Rob Gronkowski - 6 Catches, 67 Yds, 2 TDs</li>
+    </ul>
+
+    <hr>
+
+    <h2>Market Survey</h2>
+
+    <!-- form -->
+    <form class="" action="index.html" method="post">
+      <label for="name">Name: </label>
+      <input type="text" name="name" value="" placeholder="Name">
+      <br>
+      <label for="age">Age: </label>
+      <input type="text" name="age" value="" placeholder="Age">
+      <br>
+      <input type="radio" id="TB" name="game" value="I attended the game in Tampa Bay">
+      <label for="male">I attended the game in Tampa Bay</label><br>
+      <input type="radio" id="TV" name="game" value="I watched the game on TV">
+      <label for="female">I watched the game on TV</label><br>
+      <input type="radio" id="No" name="game" value="I don't follow Baseball">
+      <label for="other">I don't follow Baseball</label>
+      <br>
+      <input type="submit" name="submit" value="Submit Survey">
+    </form>
+  </body>
+</html>
