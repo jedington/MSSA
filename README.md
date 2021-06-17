@@ -5,7 +5,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![Twitter][twitter-shield]][twitter-url]
 
 
 <!-- PROJECT LOGO -->
@@ -45,3 +45,5 @@ Twitter: [@arcanicvoid](https://twitter.com/arcanicvoid) • LinkedIn: [julian-e
 [license-url]: https://github.com/jedington/MSSA.Assignments/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/julian-edington/
+[twitter-shield]: https://img.shields.io/twitter/follow/arcanicvoid?style=for-the-badge&logo=twitter&colorB=555
+[twitter-url]: https://twitter.com/arcanicvoid
