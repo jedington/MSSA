@@ -29,8 +29,7 @@ Each file is individually zipped to make it easy to extract them individually:
 <!-- CONTACT -->
 ## Contact
 
-Twitter: [@julianedington](https://twitter.com/julianedington) • LinkedIn: [julian-edington](https://www.linkedin.com/in/julian-edington/)
-
+Twitter: [@arcanicvoid](https://twitter.com/arcanicvoid) • LinkedIn: [julian-edington](https://www.linkedin.com/in/julian-edington/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
