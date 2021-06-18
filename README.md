@@ -26,11 +26,6 @@ Each file is individually zipped to make it easy to extract them individually:
 
 [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) • [T-SQL](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver15) • [.NET Core](https://dotnet.microsoft.com/download) • [JavaScript](https://www.javascript.com/) • [CSS](https://www.w3schools.com/css/) • [HTML](https://www.w3schools.com/html/)
 
-<!-- CONTACT -->
-## Contact
-
-Twitter: [@arcanicvoid](https://twitter.com/arcanicvoid) • LinkedIn: [julian-edington](https://www.linkedin.com/in/julian-edington/)
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jedington/MSSA.Assignments.svg?style=for-the-badge
