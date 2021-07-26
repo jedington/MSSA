@@ -1,0 +1,52 @@
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.exe
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.deps.json
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.runtimeconfig.json
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.runtimeconfig.dev.json
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.dll
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.pdb
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.csprojAssemblyReference.cache
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.AssemblyInfoInputs.cache
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.AssemblyInfo.cs
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.dll
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.pdb
+C:\Users\AETHER.000\source\repos\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.genruntimeconfig.cache
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.csprojAssemblyReference.cache
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.AssemblyInfoInputs.cache
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.AssemblyInfo.cs
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.dll
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.pdb
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.exe
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.deps.json
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.runtimeconfig.json
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.runtimeconfig.dev.json
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.dll
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.pdb
+C:\Users\AETHER.000\source\repos\MSSA\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.genruntimeconfig.cache
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.exe
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.deps.json
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.runtimeconfig.json
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.runtimeconfig.dev.json
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.dll
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.pdb
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.csprojAssemblyReference.cache
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.AssemblyInfoInputs.cache
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.AssemblyInfo.cs
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.dll
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.pdb
+C:\Users\AETHER.000\source\repos\MSSA\C# Chapters 10+\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.genruntimeconfig.cache
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.exe
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.deps.json
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.runtimeconfig.json
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.runtimeconfig.dev.json
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.dll
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\bin\Debug\netcoreapp3.1\Ch10TicTacToe.pdb
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.csprojAssemblyReference.cache
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.AssemblyInfoInputs.cache
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.AssemblyInfo.cs
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.dll
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.pdb
+C:\Users\AETHER.000\Downloads\Ch10TicTacToe\Ch10TicTacToe\obj\Debug\netcoreapp3.1\Ch10TicTacToe.genruntimeconfig.cache
