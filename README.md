@@ -37,7 +37,7 @@ Each file is individually zipped to make it easy to extract them individually:
 [issues-shield]: https://img.shields.io/github/issues/jedington/MSSA.Assignments.svg?style=for-the-badge
 [issues-url]: https://github.com/jedington/MSSA.Assignments/issues
 [license-shield]: https://img.shields.io/github/license/jedington/MSSA.Assignments.svg?style=for-the-badge
-[license-url]: https://github.com/jedington/MSSA.Assignments/blob/main/LICENSE.txt
+[license-url]: https://github.com/jedington/MSSA.Assignments/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/julian-edington/
 [twitter-shield]: https://img.shields.io/twitter/follow/arcanicvoid?style=for-the-badge&logo=twitter&colorB=555
