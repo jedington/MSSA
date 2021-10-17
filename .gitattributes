@@ -109,5 +109,8 @@
 ########################################
 
 # Linguist overrides
+*.json linguist-detectable=true
+*.json linguist-language=JSON
+
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
