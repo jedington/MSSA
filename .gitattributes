@@ -109,11 +109,5 @@
 ########################################
 
 # Linguist overrides
-*.yml linguist-detectable=true
-*.yml linguist-language=YAML
-
-*.json linguist-detectable=true
-*.json linguist-language=JSON
-
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
