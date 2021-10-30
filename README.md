@@ -12,17 +12,24 @@
 <br />
 <p align="center">
   <!--
-  <a href="https://github.com/jedington/MSSA.Assignments/">
+  <a href="https://github.com/jedington/MSSA.Assignments">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
   -->  
+  <h3 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?lines=MSSA%20Assigments&center=true&size=30" 
+    alt="MSSA Assigments"/> 
+  </h3>
+  <p align="center">
+    MSSA Labs/Exercises progressively towards learning foundational software & web development.
+  </p>
+</p>
 
-  <h3 align="center">MSSA Assignments</h3>
+## Notes
+* Each file is individually zipped to make it easy to extract them individually:
+* Right click the zip file, save link. -or- Navigate to the page and extract the raw. 
 
-MSSA Labs/Exercises progressively towards learning foundational software & web development.
-
-Each file is individually zipped to make it easy to extract them individually:
-* Right click the zip file, save link. -or- Navigate to the page and extract the raw.
 
 ## Built With
 
